@@ -1,6 +1,8 @@
 ### Hi there 👋 and welcome to by GitHub
 
-Success isn't only based on your education or work experience. It's also wired to your emotional state and internal motivation. This blog aims at solving this problem by sharing crucial knowledge and increasing one's general awareness, which translates into more informed decisions and better career planning. So far, this GitHub has the following repositories (each representing a blog post):
+Success isn't only based on your education or work experience. It's also wired to your emotional state and internal motivation. This blog aims at solving this problem by sharing crucial knowledge and increasing one's general awareness, which translates into more informed decisions and better career planning. We highly encouraging reading this blog to all engineers and entrepreneurs regardless of which stage of their careers they are in.
+
+So far, this GitHub has the following repositories (each representing a blog post):
 
 1. [Motivation for Everybody](https://github.com/ajitagupta/motivationforeverybody)
 2. [Bridging the Soft Skills Gap](https://github.com/ajitagupta/bridgingthesoftskillsgap)
