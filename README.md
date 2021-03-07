@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+Success isn't only based on your education or work experience. It's also wired to your emotional state and internal motivation.
+
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Success isn't only based on your education or work experience. It's also wired to your emotional state and internal motivation.
 
 Here are some ideas to get you started:
 
