@@ -15,7 +15,6 @@ So far, this GitHub has the following repositories (each representing a blog pos
 9. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
 10. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
 11. [Data Structures and Algorithms for Engineers](https://github.com/ajitagupta/dsajava)
-12. [The Hidden Gems of Programming](https://github.com/ajitagupta/hiddengemsofprogramming)
 
 For Swiss students these two lists might be worth checking out:
 * [[[list of Swiss companies]]](https://github.com/ajitagupta/swisssoftwareconsulting)
