@@ -1,6 +1,6 @@
 ### Hi there 👋 and welcome to my GitHub
 
-Success isn't only based on your education or work experience. It's also wired to your emotional state and internal motivation. The happier and more informed you are the better decisions you will make. We all need to be concerned with them. Yet, there's a gap in this space on current resources: literature, blogs and video talks. This GitHub aims at fililng this gap by sharing crucial knowledge and increasing one's general awareness, which translates into better career planning. I highly encourage reading to all engineers and determined entrepreneurs regardless of which stage of their careers they are in.
+Success isn't only based on your education or work experience. It's also wired to your emotional state and internal motivation. The happier and more informed you are the better decisions you will make. We all need to be concerned with them. Yet, there's a gap in this space on current resources: literature, blogs and video talks. This GitHub aims at fililng this gap by imparting on you crucial knowledge and increasing your general awareness, which translates into better career planning. I highly encourage reading to all engineers and determined entrepreneurs regardless of which stage of their careers they are in.
 
 So far, this GitHub has the following repositories (each representing a blog post):
 
