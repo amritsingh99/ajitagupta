@@ -9,7 +9,7 @@ So far, this GitHub has the following repositories (each representing a blog pos
 3. [How to Build a Strong Online Presence](https://github.com/ajitagupta/howtobuildastrongonlinepresence)
 4. [Learn you want. Teach you must.](https://github.com/ajitagupta/learnyouwantteachyoumust)
 5. [How to Ace the Behavioral Interview](https://github.com/ajitagupta/howtoacethebehavioralinterview)
-6. [How best to relax](https://github.com/ajitagupta/relax)
+6. [How Best to Relax](https://github.com/ajitagupta/relax)
 7. [Think Like A Programmer](https://github.com/ajitagupta/thinklikeaprogrammer)
 8. [What are web services?](https://github.com/ajitagupta/webservices)
 9. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
