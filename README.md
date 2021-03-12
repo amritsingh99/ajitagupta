@@ -17,6 +17,7 @@ The trajectory is as follows:
 9. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
 10. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
 11. [Data Structures and Algorithms for Engineers](https://github.com/ajitagupta/dsajava)
+12. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
 
 For Swiss students these two lists might be worth checking out:
 * [[[list of Swiss companies]]](https://github.com/ajitagupta/swisssoftwareconsulting)
