@@ -1,8 +1,8 @@
 ### Hi there 👋 and welcome to my GitHub
 
-Personal growth is defined as a process of improving your awareness and developing your ideal identity. Maximizing your talents and potential. Making chances to your life and mindset that will help you achieve your most important goals and live a life that is as enjoyable and fulfilling as possible.
+Personal growth is defined as a process of improving one's awareness and developing one's ideal identity. Maximizing our talents and potential. Making changes to our life and mindset that will help us achieve our most important goals and live a life that is as enjoyable and fulfilling as possible.
 
-Hello - I am Ajita Gupta and I am about to share with you a few secrets that you can use to enhance your personal growth. If you wish to achieve anything worthwhile in your personal and career life you must become a worthwhile person in your own self development. Like most of things in life though, personal growth is something that has to be worked for. There are many ways to go about continuing and accelerating your personal growth. The majority of it comes from pushing your boundaries and expanding your horizons. In this GitHub we embark on a new adventure by stepping out of our comfort zone and trying new things that can hone you into a better person, more capable and open to the wisdom and lessons that other people have to offer.
+Hello - I am Ajita Gupta and I am about to share with you a few secrets that you can use to enhance your personal growth. Like most things in life though, personal growth is something that has to be worked for. There are many ways to go about continuing and accelerating personal growth. The majority of it comes from pushing your boundaries and expanding your horizons. In this GitHub we embark on a new adventure by stepping out of our comfort zones and trying new things that will hone us into a better person, more capable and open to the wisdom and lessons that other people have to offer.
 
 1. [Motivation for Everybody](https://github.com/ajitagupta/motivationforeverybody)
 2. [Bridging the Soft Skills Gap](https://github.com/ajitagupta/bridgingthesoftskillsgap)
