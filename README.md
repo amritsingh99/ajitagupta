@@ -12,12 +12,11 @@ The trajectory is as follows:
 4. [Learn you want. Teach you must.](https://github.com/ajitagupta/learnyouwantteachyoumust)
 5. [How to Ace the Behavioral Interview](https://github.com/ajitagupta/howtoacethebehavioralinterview)
 6. [How Best to Relax](https://github.com/ajitagupta/relax)
-7. [Think Like A Programmer](https://github.com/ajitagupta/thinklikeaprogrammer)
-8. [What are web services?](https://github.com/ajitagupta/webservices)
-9. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
-10. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
-11. [Data Structures and Algorithms for Engineers](https://github.com/ajitagupta/dsajava)
-12. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
+7. [What are web services?](https://github.com/ajitagupta/webservices)
+8. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
+9. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
+10. [Data Structures and Algorithms for Engineers](https://github.com/ajitagupta/dsajava)
+11. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
 
 For Swiss students these two lists might be worth checking out:
 * [[[list of Swiss companies]]](https://github.com/ajitagupta/swisssoftwareconsulting)
