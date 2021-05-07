@@ -17,6 +17,7 @@ Our path is as follows:
 9. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
 10. [Data Structures and Algorithms for Engineers](https://github.com/ajitagupta/dsajava)
 11. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
+12. [Machine Learning by the University of Washington](https://github.com/ajitagupta/machinelearninguw)
 
 For Swiss students these two lists might be worth checking out:
 * [[[list of Swiss companies]]](https://github.com/ajitagupta/swisssoftwareconsulting)
