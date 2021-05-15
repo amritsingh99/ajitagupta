@@ -4,7 +4,7 @@ Personal growth is defined as a process of improving one's awareness and develop
 
 Hello - I am Ajita Gupta and I am about to share with you a few secrets that you can use to enhance your personal growth as a software engineer. Like most things in life, success is something that has to be worked for. There are many ways to go about continuing and accelerating your journey going forward. The majority of them stem from pushing your boundaries and expanding your horizons. In this GitHub we embark on a new adventure by stepping out of our comfort zones and trying new things that will hone us into a better person, more capable and open to the wisdom and lessons that other people have to offer.
 
-I am currently learning:
+I teach what I learn. In the past year I have learnt:
 
 1. [Motivation for Everybody](https://github.com/ajitagupta/motivationforeverybody)
 2. [Bridging the Soft Skills Gap](https://github.com/ajitagupta/bridgingthesoftskillsgap)
