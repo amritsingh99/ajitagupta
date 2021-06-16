@@ -6,18 +6,18 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 
 More specifically, we venture into the following areas. While each of them addresses a different topic this list is by no means exhaustive or complete.
 
-⚡ [Motivation for Everybody](https://github.com/ajitagupta/motivationforeverybody)
-⚡ [Bridging the Soft Skills Gap](https://github.com/ajitagupta/bridgingthesoftskillsgap)
-⚡ [How to Build a Strong Online Presence](https://github.com/ajitagupta/howtobuildastrongonlinepresence)
-⚡ [Learn you want. Teach you must.](https://github.com/ajitagupta/learnyouwantteachyoumust)
-⚡ [How to Ace the Behavioral Interview](https://github.com/ajitagupta/howtoacethebehavioralinterview)
-⚡ [How Best to Relax](https://github.com/ajitagupta/relax)
-⚡ [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
-⚡ [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
-⚡ [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
-🌱 [Machine Learning by the University of Washington](https://github.com/ajitagupta/machinelearninguw)
+1. [Motivation for Everybody](https://github.com/ajitagupta/motivationforeverybody)
+2. [Bridging the Soft Skills Gap](https://github.com/ajitagupta/bridgingthesoftskillsgap)
+3. [How to Build a Strong Online Presence](https://github.com/ajitagupta/howtobuildastrongonlinepresence)
+4. [Learn you want. Teach you must.](https://github.com/ajitagupta/learnyouwantteachyoumust)
+5. [How to Ace the Behavioral Interview](https://github.com/ajitagupta/howtoacethebehavioralinterview)
+6. [How Best to Relax](https://github.com/ajitagupta/relax)
+7. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
+8. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
+9. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
+10. [Machine Learning by the University of Washington](https://github.com/ajitagupta/machinelearninguw)
 
-
+Suggestions for improvement are always welcome. Further, if you want to learn more about a certain topic do let me know!
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
