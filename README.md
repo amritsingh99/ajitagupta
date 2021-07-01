@@ -17,7 +17,8 @@ More specifically, we venture into the following areas. While each of them addre
 9. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
 10. [Machine Learning by the University of Washington](https://github.com/ajitagupta/machinelearninguw)
 
-Suggestions for improvement are always welcome. Further, if you want to learn more about a certain topic do let me know!
+To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
+
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
