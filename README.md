@@ -19,6 +19,8 @@ More specifically, we venture into the following areas. While each of them addre
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
 
+- ⚡ Another amazing GitHub repo: https://github.com/ossu/computer-science ...
+
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
