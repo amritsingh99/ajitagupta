@@ -22,7 +22,7 @@ To benefit the most from these techniques, you need intense, burning desire for 
 
 ## Links
 ⚡ Another amazing GitHub repo: https://github.com/ossu/computer-science
-
+⚡ Another amazing GitHub repo: https://github.com/JanVanRyswyck/awesome-talks
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
