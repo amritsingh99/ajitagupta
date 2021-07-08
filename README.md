@@ -22,7 +22,7 @@ To benefit the most from these techniques, you need intense, burning desire for 
 
 ## Other GitHub Repos
 ⚡ Amazing GitHub repo: https://github.com/ossu/computer-science<br>
-⚡ Another amazing GitHub repo: https://github.com/JanVanRyswyck/awesome-talks
+⚡ Another amazing GitHub repo: https://github.com/JanVanRyswyck/awesome-talks<br>
 ⚡ For Swiss students searching jobs: https://github.com/ajitagupta/swisssoftwareconsulting
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
