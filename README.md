@@ -20,10 +20,10 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
 
-### Other GitHub Repos
+### Other GitHub Repos (on self-study and personal growth)
 ⚡ Amazing GitHub repo: https://github.com/ossu/computer-science<br>
 ⚡ Another amazing GitHub repo: https://github.com/JanVanRyswyck/awesome-talks<br>
-⚡ For job seekers in Switzerland: https://github.com/ajitagupta/swisssoftwareconsulting
+
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
