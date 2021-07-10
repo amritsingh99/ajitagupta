@@ -1,4 +1,4 @@
-## Hi there 👋 and welcome to my GitHub Blog
+## Hi there 👋 and welcome to my GitHub School
 
 ### Personal Growth
 Personal growth is defined as a process of improving one's awareness and developing one's ideal identity. Maximizing our talents and potential. Making changes to our life and mindset that will help us achieve our most important goals and live a life that is as enjoyable and fulfilling as possible.
@@ -20,9 +20,10 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
 
-### Other GitHub Repos (on self-study and personal growth)
+### Other GitHub Schools
 ⚡ Amazing GitHub repo: https://github.com/ossu/computer-science<br>
 ⚡ Another amazing GitHub repo: https://github.com/JanVanRyswyck/awesome-talks<br>
+⚡ Another amazing GitHub repo: https://github.com/jwasham/coding-interview-university
 
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
