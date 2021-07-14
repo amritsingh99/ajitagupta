@@ -13,7 +13,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 4. [Learn you want. Teach you must.](https://github.com/ajitagupta/learnyouwantteachyoumust)
 5. [How to Ace the Behavioral Interview](https://github.com/ajitagupta/howtoacethebehavioralinterview)
 6. [How Best to Relax](https://github.com/ajitagupta/relax)
-7. [An Entrepreneurship Primer - MBA Business Principles](https://github.com/ajitagupta/entrepreneurshipprimer)
+7. [An Entrepreneurship Primer - MBA Business Principles by Josh Kaufman](https://github.com/ajitagupta/entrepreneurshipprimer)
 8. [13 Lessons from The $100 Startup](https://github.com/ajitagupta/100dollarstartup)
 9. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
 10. [Machine Learning by the University of Washington](https://github.com/ajitagupta/machinelearninguw)
