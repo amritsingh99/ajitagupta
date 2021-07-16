@@ -24,7 +24,7 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ Amazing GitHub repo: https://github.com/ossu/computer-science<br>
 ⚡ Another amazing GitHub repo: https://github.com/JanVanRyswyck/awesome-talks<br>
 ⚡ Another fantastic GitHub repo: https://github.com/jwasham/coding-interview-university<br>
-⚡ Another comprehensive GitHub repo: https://github.com/mhadidg/software-architecture-books
+
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
