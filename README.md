@@ -24,7 +24,7 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [OSSU](https://github.com/ossu/computer-science)<br>
 ⚡ [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)<br>
 ⚡ [Coding Interview University](https://github.com/jwasham/coding-interview-university)<br>
-⚡ [Software Architecture](https://github.com/mhadidg/software-architecture-books)
+⚡ [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
