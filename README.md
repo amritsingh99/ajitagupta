@@ -24,7 +24,10 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [OSSU](https://github.com/ossu/computer-science)<br>
 ⚡ [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)<br>
 ⚡ [Coding Interview University](https://github.com/jwasham/coding-interview-university)<br>
-⚡ [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+⚡ [Software Architecture Books](https://github.com/mhadidg/software-architecture-books)<br>
+⚡ [Project-based learning](https://github.com/tuvtran/project-based-learning)<br>
+⚡ [Awesome University Courses](https://github.com/prakhar1989/awesome-courses)<br>
+⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
