@@ -21,6 +21,8 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
 
+![Buy me a coffee](https://ibb.co/PD8z5Mn)
+
 ### Other GitHub Schools
 ⚡ [Open Source Society University](https://github.com/ossu/computer-science)<br>
 ⚡ [Tech Talks](https://github.com/JanVanRyswyck/awesome-talks)<br>
