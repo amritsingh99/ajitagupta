@@ -27,6 +27,9 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [Coding Interview University](https://github.com/jwasham/coding-interview-university)<br>
 ⚡ [Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)<br>
 ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈
+[<img src="https://ibb.co/PD8z5Mn">](https://www.buymeacoffee.com/ajita.gupta)
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
