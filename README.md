@@ -29,7 +29,7 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈
-[![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png = 60x217)](https://www.buymeacoffee.com/ajita.gupta)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >](https://www.buymeacoffee.com/ajita.gupta)
 <!--<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--[![Buy me a coffee](https://ibb.co/PD8z5Mn)](https://www.buymeacoffee.com/ajita.gupta)
