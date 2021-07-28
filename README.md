@@ -25,7 +25,6 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [Open Source Society University](https://github.com/ossu/computer-science)<br>
 ⚡ [Tech Talks](https://github.com/JanVanRyswyck/awesome-talks)<br>
 ⚡ [Coding Interview University](https://github.com/jwasham/coding-interview-university)<br>
-⚡ [Project-based learning](https://github.com/tuvtran/project-based-learning)<br>
 ⚡ [Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)<br>
 ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)
 <!--
