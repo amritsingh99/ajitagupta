@@ -29,7 +29,7 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈<br><br>
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" width="130" >](https://www.buymeacoffee.com/ajita.gupta)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" width="140" >](https://www.buymeacoffee.com/ajita.gupta)
 <!--
 
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
