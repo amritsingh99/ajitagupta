@@ -1,4 +1,4 @@
-## Hi there 👋 and welcome to my GitHub School
+## Hi there 👋 ![image](https://user-images.githubusercontent.com/19605416/129897647-6f6aeebb-67fe-4244-acf3-d6211c400b70.png) and welcome to my GitHub School
 
 ### Personal Growth
 Personal growth is defined as a process of improving one's awareness and developing one's ideal identity. Maximizing our talents and potential. Making changes to our life and mindset that will help us achieve our most important goals and live a life that is as enjoyable and fulfilling as possible.
