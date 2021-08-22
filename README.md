@@ -18,7 +18,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 9. [How to Build Unbreakable Self-Discipline](https://github.com/ajitagupta/selfdiscipline)
 10. [Machine Learning by the University of Washington](https://github.com/ajitagupta/machinelearninguw)
 11. [On Internships](https://github.com/ajitagupta/oninternships)
-12. [The Hard Things About Hard Things - Thoughts on leadership and management](https://github.com/ajitagupta/hardthingsabouthardthings)
+12. [The Hard Thing About Hard Things - Thoughts on leadership and management](https://github.com/ajitagupta/hardthingsabouthardthings)
 13. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
