@@ -20,10 +20,8 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 11. [On Internships](https://github.com/ajitagupta/oninternships)
 12. [The Hard Thing About Hard Things - Thoughts on leadership and management](https://github.com/ajitagupta/hardthingsabouthardthings)
 13. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
-14. [Datastructures & Algorithms by Princeton University - Part 1 [for junior software engineers]](https://www.coursera.org/learn/algorithms-part1)
-15. [Datastructures & Algorithms by Princeton University - Part 2 [for junior software engineers]](https://www.coursera.org/learn/algorithms-part2)
-16. [Cracking the Coding Interview Solutions in all Languages [for software engineers]](https://github.com/careercup/CtCI-6th-Edition)
-17. [Cracking the Coding Interview Solutions with Explanations in Python [for software engineers]](https://quastor.org/cracking-the-coding-interview/arrays-and-strings/one-away)
+14. [Data structures & Algorithms by Princeton University - Part 1 [for junior software engineers]](https://www.coursera.org/learn/algorithms-part1)
+15. [Data structures & Algorithms by Princeton University - Part 2 [for junior software engineers]](https://www.coursera.org/learn/algorithms-part2)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
