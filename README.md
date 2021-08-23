@@ -22,6 +22,8 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 13. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
 14. [Data structures & Algorithms by Princeton University - Part 1 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part1)
 15. [Data structures & Algorithms by Princeton University - Part 2 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part2)
+16. [Data structures & Algorithms by Robert Lafore [for software interview preparation]](https://www.amazon.com/-/en/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+data+structures&qid=1629711242&sr=8-1)
+17. [Data structures & Algorithms by Jay Wengrow [for software interview preparation]](https://www.amazon.com/-/en/dp/1680507222/ref=pd_sbs_2/141-4674980-0868459?pd_rd_w=T4q31&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=JTEBHYDVQP5FHJ8BY15C&pd_rd_r=ccd0914b-6ecd-4c27-a4d0-0b1c0c4a5a7b&pd_rd_wg=vcvZQ&pd_rd_i=1680507222&psc=1)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
