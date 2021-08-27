@@ -33,7 +33,8 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [Computer Science University Courses](https://github.com/prakhar1989/awesome-courses)<br>
 ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)<br>
 ⚡ [Algorithms](https://github.com/TheAlgorithms)<br>
-⚡ [MBA MOOC's](https://github.com/dperconti/MOOC-MBA)
+⚡ [MBA MOOC's](https://github.com/dperconti/MOOC-MBA)<br>
+⚡ [Most influential books for programmers](https://github.com/cs-books/influential-cs-books)
 
 <!-- If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈<br><br>-->
 If you find this page and it's content useful you could consider helping it grow even more by using the 👇 button below!
