@@ -35,8 +35,9 @@ To benefit the most from these techniques, you need intense, burning desire for 
 ⚡ [System Design Primer](https://github.com/donnemartin/system-design-primer)<br>
 ⚡ [Algorithms](https://github.com/TheAlgorithms)<br>
 ⚡ [MBA MOOC's](https://github.com/dperconti/MOOC-MBA)<br>
-⚡ [Most influential books for programmers](https://github.com/cs-books/influential-cs-books)
-⚡ [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+⚡ [Most influential books for programmers](https://github.com/cs-books/influential-cs-books)<br>
+⚡ [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)<br>
+⚡ [Awesome](https://github.com/sindresorhus/awesome)
 
 <!-- If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈<br><br>-->
 If you find this page and it's content useful you could consider helping it grow even more by using the 👇 button below!
