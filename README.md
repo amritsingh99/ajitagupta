@@ -9,8 +9,10 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 ### Agenda
 1. [Data structures & Algorithms by Princeton University - Part 1 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part1)
 2. [Data structures & Algorithms by Princeton University - Part 2 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part2)
-3. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
-4. [Data Science Projects - Through the lens of a Data Scientist](https://github.com/ajitagupta/datascienceprojects/)
+3. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1)
+4. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
+5. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
+6. [Data Science Projects - Through the lens of a Data Scientist](https://github.com/ajitagupta/datascienceprojects/)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
