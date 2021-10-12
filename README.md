@@ -7,7 +7,7 @@ Personal growth is defined as a process of improving one's awareness and develop
 Hello - I am Ajita Gupta and I am about to share with you a few secrets that you can use to enhance your personal growth. Like most things in life, success is something that has to be worked for. There are many ways to go about continuing and accelerating your journey going forward. The majority of them stem from pushing your boundaries and expanding your horizons. In this GitHub we embark on a new adventure by stepping out of our comfort zones and trying new things that will hone us into a better person, more capable and open to the wisdom and lessons that other people have to offer.
 
 ### Agenda
-0. [Programming fundamentals in Java](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1)
+0. [Building Java Programs [programming fundamentals in Java]](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1)
 1. [Data structures & Algorithms by Princeton University - Part 1 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part1)
 2. [Data structures & Algorithms by Princeton University - Part 2 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part2)
 3. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1)
@@ -18,7 +18,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333)
 9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring)
 10. [Software Soft Skills](https://www.amazon.com/-/de/dp/1617292397/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14C4LLLR5TONH&dchild=1&keywords=soft+skills+the+software+developer%27s+life+manual%24&qid=1634038048&sprefix=soft+skills+%2Caps%2C266&sr=8-2)
-11. [Automate the Boring Stuff with Python [cool single-file scripts]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1)
+11. [Automate the Boring Stuff with Python [cool single-file scripts in Python]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
