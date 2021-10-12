@@ -8,7 +8,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 
 ### Starting out
 0. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) (I recommend starting with Java since it's the easiest to understand)
-1. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1)
+1. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1) (live simulation of all major algorithms)
 2. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
 3. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1) (lucid explanations to every fundamental DSA topic)
 4. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
