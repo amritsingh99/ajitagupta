@@ -14,7 +14,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 4. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
 5. [HackerRank [for interview preparation]](https://www.hackerrank.com/)
 6. [Java Programming and Software Engineering Fundamentals [certification course]](https://www.coursera.org/specializations/java-programming?)
-7. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333)
+7. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333) (I recommend getting this one since you will start getting more responses to your next job search)
 8. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring) (it's all the rage now but feel free to replace this with any other framework)
 9. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary)
 10. [Automate the Boring Stuff with Python [cool single-file scripts in Python]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1) (two languages in your tool belt are always better than one)
