@@ -22,7 +22,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 ### Becoming a Software Professional
 
 1. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
-2. [Better Programming [Medium channel]](https://betterprogramming.pub/) (Medium is the source for curated articles, tutorials and general programming advice)
+2. [Better Programming [Medium channel]](https://betterprogramming.pub/) (Medium is the source for curated articles)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
