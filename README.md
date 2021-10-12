@@ -17,6 +17,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 7. [Java Programming and Software Engineering Fundamentals [certification course]](https://www.coursera.org/specializations/java-programming?)
 8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333)
 9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring)
+10. [Software Soft Skills](https://www.amazon.com/-/de/dp/1617292397/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14C4LLLR5TONH&dchild=1&keywords=soft+skills+the+software+developer%27s+life+manual%24&qid=1634038048&sprefix=soft+skills+%2Caps%2C266&sr=8-2)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
