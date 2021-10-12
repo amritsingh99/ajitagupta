@@ -8,17 +8,20 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 
 ### Agenda
 0. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) (I recommend starting with Java since it's the easiest to understand)
-1. [Data structures & Algorithms by Princeton University - Part 1 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part1)
-2. [Data structures & Algorithms by Princeton University - Part 2 [for aspiring junior software engineers]](https://www.coursera.org/learn/algorithms-part2)
+1. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1)
+2. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
 3. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1)
 4. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
 5. [HackerRank [for interview preparation]](https://www.hackerrank.com/)
-6. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
-7. [Java Programming and Software Engineering Fundamentals [certification course]](https://www.coursera.org/specializations/java-programming?)
-8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333)
-9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring)
-10. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary)
-11. [Automate the Boring Stuff with Python [cool single-file scripts in Python]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1)
+6. [Java Programming and Software Engineering Fundamentals [certification course]](https://www.coursera.org/specializations/java-programming?)
+7. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333)
+8. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring)
+9. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary)
+10. [Automate the Boring Stuff with Python [cool single-file scripts in Python]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1)
+
+This is enough to get an entry-level job as junior software engineer. In a next step you might want to consider the following resources:
+
+1. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
 
 
 To benefit the most from these techniques, you need intense, burning desire for personal improvement. You need the ability to trust, and to persist patiently, confidently, knowing that there is a cumulative effect to all of your efforts, and that you will ultimately achieve the riches and rewards that you desire.
