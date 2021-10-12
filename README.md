@@ -19,7 +19,7 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 9. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary)
 10. [Automate the Boring Stuff with Python [cool single-file scripts in Python]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1)
 
-This is enough to get an entry-level job as junior software engineer. In a next step you might want to consider the following resources:
+This is enough material to get an entry-level job as junior software engineer. However, in a next step you might want to consider the following resources:
 
 1. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
 
