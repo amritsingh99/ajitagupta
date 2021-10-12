@@ -6,7 +6,7 @@ Personal growth is defined as a process of improving one's awareness and develop
 ### Content
 Hello - I am Ajita Gupta and I am about to share with you a few secrets that you can use to enhance your personal growth. Like most things in life, success is something that has to be worked for. There are many ways to go about continuing and accelerating your journey going forward. The majority of them stem from pushing your boundaries and expanding your horizons. In this GitHub we embark on a new adventure by stepping out of our comfort zones and trying new things that will hone us into a better person, more capable and open to the wisdom and lessons that other people have to offer.
 
-### Getting started
+### Starting out
 0. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) (I recommend starting with Java since it's the easiest to understand)
 1. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1)
 2. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
