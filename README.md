@@ -7,17 +7,17 @@ Personal growth is defined as a process of improving one's awareness and develop
 Hello - I am Ajita Gupta and I am about to share with you a few secrets that you can use to enhance your personal growth. Like most things in life, success is something that has to be worked for. There are many ways to go about continuing and accelerating your journey going forward. The majority of them stem from pushing your boundaries and expanding your horizons. In this GitHub we embark on a new adventure by stepping out of our comfort zones and trying new things that will hone us into a better person, more capable and open to the wisdom and lessons that other people have to offer.
 
 ### Starting out
-0. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) (I recommend starting with Java since it's the easiest to understand)
-1. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1) (live simulation of all major algorithms)
-2. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
-3. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1) (lucid explanations to every fundamental DSA topic)
-4. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
-5. [HackerRank [for interview preparation]](https://www.hackerrank.com/)
-6. [Java Programming and Software Engineering Fundamentals [certification course]](https://www.coursera.org/specializations/java-programming?)
-7. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333) (I recommend getting this one since you will start receiving more responses in your next job search)
-8. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring) (it's all the rage now but feel free to replace this with any other framework)
-9. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary)
-10. [Automate the Boring Stuff with Python [cool single-file scripts in Python]](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1) (two languages in your tool belt are always better than one)
+1. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) (I recommend starting with Java since it's the easiest to understand)
+2. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1) (live simulation of all major algorithms)
+3. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
+4. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1) (lucid explanations to every fundamental DSA topic)
+5. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
+6. [HackerRank [for interview preparation]](https://www.hackerrank.com/)
+7. [Java Programming and Software Engineering Fundamentals [certification course]](https://www.coursera.org/specializations/java-programming?)
+8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333) (I recommend getting this one since you will start receiving more responses in your next job search)
+9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring) (it's all the rage now but feel free to replace this with any other framework)
+10. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary)
+11. [Automate the Boring Stuff with Python](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1) (two languages in your tool belt are always better than one)
 
 ### Becoming a Software Professional
 
