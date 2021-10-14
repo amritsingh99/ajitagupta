@@ -20,7 +20,7 @@ You start my making a decision to become a software engineer - and hopefully - a
 8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333): I recommend getting this one since you will start receiving more responses in your next job search
 9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring): it's all the rage now but feel free to replace this with any other framework
 10. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1): less important but still necessary and require practice
-11. [Automate the Boring Stuff with Python](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1) (two languages in your tool belt are always better than one)
+11. [Automate the Boring Stuff with Python](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1): two languages in your tool belt is always better than one
 
 #### Becoming a Software Professional
 
