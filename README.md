@@ -22,7 +22,7 @@ You start my making a decision to become a software engineer - and hopefully - a
 
 #### Becoming a Software Professional
 
-1. [Top 12 Software Engineering Books [for software engineers]](https://github.com/ajitagupta/softwareengineerbooks)
+1. [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 2. [Better Programming [Medium channel]](https://betterprogramming.pub/) (tons of software articles)
 
 
