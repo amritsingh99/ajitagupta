@@ -9,17 +9,17 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 #### Starting out
 You start my making a decision to become a software engineer - and hopefully - a good one. But I must tell you - it's not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career swtich. But that's just how it is. Life is a struggle. Embrace it and learn to challenge yourself in a healthy, consistent and digestable cadence. It's well worth the effort from both an intellectual and financial angle. I also recommend regular physical exercise to keep yourself mentally invigorated. That's it. Now, let's begin!
 
-0. [CS50](https://cs50.harvard.edu/) (the most popular online class on the net)
-1. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) (I recommend starting with Java since it's the easiest to understand)
-2. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1) (live simulation of all major algorithms)
+0. [CS50](https://cs50.harvard.edu/): the most popular online class on the net
+1. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1): I recommend starting with Java since it's the easiest to understand
+2. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1): live simulation of all major algorithms
 3. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
-4. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1) (lucid explanations to every fundamental DSA topic)
+4. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1): lucid explanations to every fundamental DSA topic
 5. [Cracking the Coding Interview [for interview preparation]](https://www.amazon.com/-/de/dp/0984782850/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZU6USGS5QL17&dchild=1&keywords=cracking+the+coding+interview&qid=1634031401&s=books&sprefix=cracking+the+%2Caps%2C304&sr=1-1)
 6. [HackerRank [for interview preparation]](https://www.hackerrank.com/)
 7. [Java Programming and Software Engineering Fundamentals by Duke University [certification course]](https://www.coursera.org/specializations/java-programming?)
-8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333) (I recommend getting this one since you will start receiving more responses in your next job search)
-9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring) (it's all the rage now but feel free to replace this with any other framework)
-10. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1) (less important but still necessary and require practice)
+8. [Oracle Certified Associate [beginner certification]](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333): I recommend getting this one since you will start receiving more responses in your next job search
+9. [Spring and Spring Boot](https://www.codecademy.com/learn/learn-spring): it's all the rage now but feel free to replace this with any other framework
+10. [Soft Skills](https://www.amazon.com/-/de/dp/B09BP6JWTQ/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=soft+skills+software&qid=1634041992&s=books&sr=1-1): less important but still necessary and require practice
 11. [Automate the Boring Stuff with Python](https://www.amazon.com/-/de/dp/1593279922/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=automate+python&qid=1634041870&sr=8-1) (two languages in your tool belt are always better than one)
 
 #### Becoming a Software Professional
