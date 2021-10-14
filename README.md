@@ -9,8 +9,11 @@ Hello - I am Ajita Gupta and I am about to share with you a few secrets that you
 #### Starting out
 You start my making a decision to become a software engineer - and hopefully - a good one. But I must tell you - it's not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career switch. You might not understand things at first - or even - dislike the material. But that's just how it is. You will have to push yourself to make it through the initial stage. Rest assured it's well worth the effort from both an intellectual and financial angle. I recommend regular physical exercise to keep yourself mentally invigorated. That's it. Now, let's begin!
 
-0. [CS50](https://cs50.harvard.edu/): the most popular online class on the net
-1. [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1): I recommend starting with Java since it's the easiest to understand and is built upon all important programming paradigms
+| Book / Course | Remarks |
+| --- | ----------- |
+| [CS50](https://cs50.harvard.edu/) | the most popular online class on the net |
+| [Building Java Programs](https://www.amazon.com/-/de/dp/013547194X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=building+java+programs&qid=1634032853&sr=8-1) | I recommend starting with Java since it's the easiest to understand and is built upon all important programming paradigms |
+
 2. [Data structures & Algorithms by Princeton University - Part 1](https://www.coursera.org/learn/algorithms-part1): live simulation of all major algorithms
 3. [Data structures & Algorithms by Princeton University - Part 2](https://www.coursera.org/learn/algorithms-part2)
 4. [Data structures & Algorithms in Java [for interview preparation]](https://www.amazon.com/-/de/dp/0672324539/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=robert+lafore&qid=1634031320&sr=8-1): lucid explanations to every fundamental DSA topic
