@@ -2,7 +2,7 @@
 
 ### Agenda
 #### Starting out
-You start my making a decision to become a software engineer - and hopefully - a good one. But I must tell you - it's not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career switch. You might not understand things at first - or even - dislike the material. But that's just how it is. You will have to push yourself to make it through the initial stage. Rest assured it's well worth the effort from both an intellectual and financial angle. I recommend regular physical exercise to keep yourself mentally invigorated. That's it. Now, let's begin!
+You start my making a decision to become a software engineer - and hopefully - a good one. But I must tell you - it's not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career switch. You might not understand things at first - or even - dislike the material. But that's just how it is. You will have to push yourself to make it through the initial stage. This can take anywhere from one to two years. Rest assured it's well worth the effort from both an intellectual and financial angle. I recommend regular physical exercise to keep yourself mentally invigorated. That's it. Now, let's begin!
 
 | Book / Course / Platform | Description |
 | --- | ----------- |
