@@ -2,6 +2,7 @@
 
 #### Starting out
 
+Find my recommendations [here](https://github.com/ajitagupta/startingout).
 
 #### Becoming a Software Professional
 
