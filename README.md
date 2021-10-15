@@ -1,4 +1,4 @@
-## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)! (Work in progress)
+## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)!
 
 #### Starting out
 
