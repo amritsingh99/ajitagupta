@@ -1,21 +1,5 @@
 ## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)!
 
-### Agenda
-#### Starting out
-You start my making a decision to become a software engineer - and hopefully - a good software engineer. Lots of realistic career paths are waiting for you that not only assure sustainable jobs, but also well-paid jobs:
-- Back-end Developers
-- Tools and Enterprise Software Developers
-- Embedded Software Developers
-- Front-End Developers
-- Mobile Engineers
-- Game Developers
-- Full-Stack Engineers
-- Graphics Engineer
-- DevOps Engineer
-- Software Development Engineer in Test
-
-The straightforward option is to go for a formal degree. The other is to organize things yourself. In this GitHub we focus on **self-learners**. Many software engineers are self-learners. The barrier to entry in this field is not very high and therefore doable. But I must tell you - it is not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career switch. You might not understand things at first - or even - dislike the material. But that's just how it is. If you are serious and determined you will have to push yourself to make it through the initial stage. This can take anywhere from one to two years. Rest assured it's well worth the effort. I recommend regular physical exercise to keep yourself mentally invigorated. The more receptive your brain the faster you will learn and remember. Enough said. Let's [begin](https://github.com/ajitagupta/startingout)!
-
 
 #### Becoming a Software Professional
 
