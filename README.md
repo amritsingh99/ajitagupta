@@ -2,7 +2,23 @@
 
 ### Agenda
 #### Starting out
-You start my making a decision to become a software engineer - and hopefully - a good software engineer. The straightforward option is to go for a formal degree. The other is to organize things yourself. In this GitHub we focus on **self-learners**. Many software engineers are self-taught. The barrier to entry in this field is not very high. But I must tell you - it's not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career switch. You might not understand things at first - or even - dislike the material. But that's just how it is. If you are serious and determined you will have to push yourself to make it through the initial stage. This can take anywhere from one to two years. Rest assured it's well worth the effort from both an intellectual and financial angle. I recommend regular physical exercise to keep yourself mentally invigorated. The more receptive your brain the faster you will learn and remember. Enough said. Let's begin!
+You start my making a decision to become a software engineer - and hopefully - a good software engineer. For aspiring software engineers who have a desire to level up their careers in their field, lots of realistic career paths are waiting for them that not only assure sustainable jobs, but also well-paid jobs:
+- Back-end Developers
+- Tools and Enterprise Software Developers
+- Embedded System Developers
+- Front-End Developers
+- Mobile Engineers
+- Game Developers
+- Full-Stack Engineers
+- Graphics Engineer
+- Data Engineer
+- DevOps Engineer
+- Software Development Engineer in Test
+- Embedded Systems Engineer
+- Security Engineer
+However, it is not all, and you can explore a lot of other options for yourself as a software engineer.
+
+The straightforward option is to go for a formal degree. The other is to organize things yourself. In this GitHub we focus on **self-learners**. Many software engineers are self-taught. The barrier to entry in this field is not very high. But I must tell you - it's not for everyone. You might not have the right educational background for it. You might have time and personal constraints. Your boss might not be supportive of the career switch. You might not understand things at first - or even - dislike the material. But that's just how it is. If you are serious and determined you will have to push yourself to make it through the initial stage. This can take anywhere from one to two years. Rest assured it's well worth the effort. I recommend regular physical exercise to keep yourself mentally invigorated. The more receptive your brain the faster you will learn and remember. Enough said. Let's begin!
 
 | Book / Course / Platform | Description |
 | --- | ----------- |
