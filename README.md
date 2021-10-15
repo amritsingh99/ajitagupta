@@ -2,7 +2,7 @@
 
 ### Agenda
 #### Starting out
-You start my making a decision to become a software engineer - and hopefully - a good software engineer. For aspiring software engineers who have a desire to level up their careers in their field, lots of realistic career paths are waiting for them that not only assure sustainable jobs, but also well-paid jobs:
+You start my making a decision to become a software engineer - and hopefully - a good software engineer. Lots of realistic career paths are waiting for you that not only assure sustainable jobs, but also well-paid jobs:
 - Back-end Developers
 - Tools and Enterprise Software Developers
 - Embedded System Developers
