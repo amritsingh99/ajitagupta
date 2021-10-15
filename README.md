@@ -1,10 +1,10 @@
 ## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)!
 
-#### Starting out
+### Starting out
 
 Find my recommendations [here](https://github.com/ajitagupta/startingout).
 
-#### Becoming a Software Professional
+### Becoming a Software Professional
 
 1. [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 2. [Better Programming [Medium channel]](https://betterprogramming.pub/) (tons of software articles)
