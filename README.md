@@ -1,6 +1,6 @@
 ## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)!
 
-[<img src="https://unsplash.com/photos/O0T1SIgHAfM" alt="Buy Me A Coffee">](https://unsplash.com/photos/O0T1SIgHAfM)
+[<img src="https://ibb.co/tqJwx04" alt="GitHub School">](https://unsplash.com/photos/O0T1SIgHAfM)
 
 
 ### Starting out
