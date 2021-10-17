@@ -1,5 +1,8 @@
 ## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)!
 
+[![GitHub School](https://unsplash.com/photos/O0T1SIgHAfM)](https://unsplash.com/photos/O0T1SIgHAfM)
+
+
 ### Starting out
 
 Find my recommendations [here](https://github.com/ajitagupta/startingout).
