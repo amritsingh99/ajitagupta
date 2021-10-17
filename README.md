@@ -1,4 +1,4 @@
-## Hi there 👋 and welcome to my GitHub School, fellow Sysout.print(developer)!
+## Hi there 👋 and welcome to my GitHub School!
 
 [<img src="https://i.ibb.co/QPK7CWf/scott-webb-O0-T1-SIg-HAf-M-unsplash.jpg" alt="GitHub School">](https://unsplash.com/photos/O0T1SIgHAfM)
 
