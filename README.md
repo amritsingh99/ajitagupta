@@ -4,7 +4,7 @@
 
 ### Starting out
 
-Find my recommendations [here](https://github.com/ajitagupta/startingout).
+I have drafted a plan of action for future software engineers. Find my recommendations [here](https://github.com/ajitagupta/startingout).
 
 ### Becoming a Software Professional
 
