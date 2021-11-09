@@ -9,9 +9,8 @@
 
 ### Becoming a Software Professional
 
-1. [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
-2. [Better Programming [Medium channel]](https://betterprogramming.pub/) (tons of software articles)
-
+- [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
+- Medium channels with tons of software articles: [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/), [Dev Genius](https://blog.devgenius.io/)
 
 ### Other GitHub Schools
 ⚡ [Open Source Society University](https://github.com/ossu/computer-science)<br>
