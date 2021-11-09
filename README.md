@@ -4,7 +4,8 @@
 
 ### Starting out
 
-I have put together a plan of action for future software engineers. You can find it [here](https://github.com/ajitagupta/startingout).
+- I have put together a plan of action for future software engineers. You can find it [here](https://github.com/ajitagupta/startingout).
+- If you are already living or planning to move to Switzerland for work consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
 
 ### Becoming a Software Professional
 
