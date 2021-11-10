@@ -22,7 +22,8 @@
 ⚡ [MBA MOOC's](https://github.com/dperconti/MOOC-MBA)<br>
 ⚡ [Most influential books for programmers](https://github.com/cs-books/influential-cs-books)<br>
 ⚡ [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)<br>
-⚡ [Awesome](https://github.com/sindresorhus/awesome)
+⚡ [Awesome](https://github.com/sindresorhus/awesome)<br>
+⚡ [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
 <!-- If you like what I do and want me to build more such projects, maybe consider buying me a coffee 🥺👉👈<br><br>-->
 If you find this page and it's content useful you could consider helping it grow even more by using the 👇 button below!
