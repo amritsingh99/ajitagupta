@@ -4,13 +4,14 @@
 
 ### Starting out
 
-- I have put together a plan of action for future software engineers. You can find it [here](https://github.com/ajitagupta/startingout).
-- If you are living or planning to move to Switzerland for work consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
+I have put together a plan of action for future software engineers. You can find it [here](https://github.com/ajitagupta/startingout).
 
 ### Becoming a Software Professional
 
 - [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 - Medium channels with tons of software articles: [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/), [Dev Genius](https://blog.devgenius.io/)
+
+If you are living or planning to move to Switzerland for work consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
 
 ### Other GitHub Schools
 ⚡ [Open Source Society University](https://github.com/ossu/computer-science)<br>
