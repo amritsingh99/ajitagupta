@@ -4,10 +4,10 @@
 
 ### Starting out
 
-Do you have less to no background in programming?
-Are you aiming at a career in software engineering?
-Are you looking for a structured curriculum to begin your journey with?
-Then you've come to the right place! To increase your motivation and provide you with the right guidance I have put together a plan of action for future software engineers. You can find it [here](https://github.com/ajitagupta/startingout).
+Do you have less to no background in programming?<br/>
+Are you aiming at a career in software engineering?<br/>
+Are you looking for a structured curriculum to begin your journey with?<br/>
+Then you've come to the right place! To guide you on your way to success I have put together a plan of action for future software engineers. It contains resources that will help you learn to code, learn to work smart and get you through difficult technical interviews. You can find it [here](https://github.com/ajitagupta/startingout).
 
 ### Becoming a Software Professional
 
