@@ -15,7 +15,7 @@ Then you've come to the right place! To guide you on your way to reaching your g
 - [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 - Medium channels with tons of software articles: [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/), [Dev Genius](https://blog.devgenius.io/)
 
-If you are current student looking for internship or early-stage exposure consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
+If you are current student in Switzerland looking for internships or early-stage exposure consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
 
 ### Other GitHub Schools
 ⚡ [Open Source Society University](https://github.com/ossu/computer-science)<br>
