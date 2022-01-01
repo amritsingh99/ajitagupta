@@ -10,7 +10,7 @@ Are you looking for a structured curriculum to begin your journey with?<br/>
 
 Then you've come to the right place!
 
-To guide you on your way to reaching your goal I have put together a plan of action. It contains resources that will help you learn to code, learn to work smart and get you through difficult technical interviews. Then, as you approach new problems in your everyday life you'll have a genuine sense of accomplishment.
+To guide you on your way to reaching your goal I have put together a plan of action. It contains resources that will help you learn to code, learn to work smart and get you through difficult technical interviews. Then, as you approach new problems in your everyday life as a developer you'll have a genuine sense of accomplishment.
 
 Get started [here](https://github.com/ajitagupta/startingout).
 
