@@ -16,6 +16,8 @@ Get started [here](https://github.com/ajitagupta/startingout).
 
 ### Becoming a Software Professional
 
+Life is like a river. It's moving and you can be at the mercy of the river if you don't take deliberate, conscious action to steer yourself in a direction you have predetermined. If we don't consciously direct our own minds and states our environment may produce undesirable haphazard states. The results can be disastrous. Thus, it's critical we stand guard at the door of our mind and daily represent things to ourselves. We must daily weed our garden.
+
 - [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 - Medium channels with tons of software articles: [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/), [Dev Genius](https://blog.devgenius.io/)
 
