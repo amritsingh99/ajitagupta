@@ -18,8 +18,12 @@ Get started [here](https://github.com/ajitagupta/startingout).
 
 Life is like a river. It's moving and you can be at the mercy of the river if you don't take deliberate, conscious action to steer yourself in a direction you have predetermined. If we don't consciously direct our own minds and states our environment may produce undesirable haphazard states. The results can be disastrous. Thus, it's critical we stand guard at the door of our mind and daily represent things to ourselves. We must daily move forward in one direction.
 
-- [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
-- Medium channels with tons of software articles: [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/), [Dev Genius](https://blog.devgenius.io/)
+Follow these [guidelines](https://github.com/ajitagupta/becomingasoftwareprofessional) and subscribe to great quality content on Medium under [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/) or [Dev Genius](https://blog.devgenius.io/).
+
+
+### Moving on to a senior position
+
+Recommended reading: [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 
 If you are current student in Switzerland looking for internships or early-stage exposure consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
 
