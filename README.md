@@ -21,7 +21,7 @@ Life is like a river. It's moving and you can be at the mercy of the river if yo
 Follow these [guidelines](https://github.com/ajitagupta/becomingasoftwareprofessional) and subscribe to great quality content on Medium under [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/) or [Dev Genius](https://blog.devgenius.io/).
 
 
-### Moving on to a senior position
+### Moving on to a Senior Software Engineering Position
 
 Recommended reading: [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
 
