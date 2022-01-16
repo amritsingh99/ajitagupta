@@ -2,28 +2,9 @@
 
 [<img src="https://i.ibb.co/QPK7CWf/scott-webb-O0-T1-SIg-HAf-M-unsplash.jpg" alt="GitHub School">](https://unsplash.com/photos/O0T1SIgHAfM)
 
-### Starting out
+:arrow_forward: [Starting out](https://github.com/ajitagupta/startingout).
 
-Do you have less to no background in programming?<br/>
-Are you aiming at a career in software engineering?<br/>
-Are you looking for a structured curriculum to begin your journey with?<br/>
-
-Then you've come to the right place!
-
-To guide you on your way to reaching your goal I have put together a plan of action. It contains resources that will help you learn to code, learn to work smart and get you through difficult technical interviews. Then, as you approach new problems in your everyday life as a developer you'll have a genuine sense of accomplishment.
-
-Get started [here](https://github.com/ajitagupta/startingout).
-
-### Becoming a Software Professional
-
-Life is like a river. It's moving and you can be at the mercy of the river if you don't take deliberate, conscious action to steer yourself in a direction you have predetermined. If we don't consciously direct our own minds and states our environment may produce undesirable haphazard states. The results can be disastrous. Thus, it's critical we stand guard at the door of our mind and daily represent things to ourselves. We must daily move forward in one direction.
-
-Follow these [guidelines](https://github.com/ajitagupta/becomingasoftwareprofessional) and subscribe to daily quality content on Medium under [Better Programming](https://betterprogramming.pub/), [Level Up Coding](https://levelup.gitconnected.com/) and [Dev Genius](https://blog.devgenius.io/).
-
-
-### Moving on to a Senior Software Engineering Position
-
-Recommended reading: [Top 12 Software Engineering Books](https://github.com/ajitagupta/softwareengineerbooks)
+:arrow_forward: [Becoming a Software Professional](https://github.com/ajitagupta/becomingasoftwareprofessional)
 
 If you are current student in Switzerland looking for internships or early-stage exposure consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
 
