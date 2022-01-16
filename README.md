@@ -2,7 +2,7 @@
 
 [<img src="https://i.ibb.co/QPK7CWf/scott-webb-O0-T1-SIg-HAf-M-unsplash.jpg" alt="GitHub School">](https://unsplash.com/photos/O0T1SIgHAfM)
 
-:arrow_forward: [Starting out](https://github.com/ajitagupta/startingout).
+:arrow_forward: [Starting out](https://github.com/ajitagupta/startingout)
 
 :arrow_forward: [Becoming a Software Professional](https://github.com/ajitagupta/becomingasoftwareprofessional)
 
