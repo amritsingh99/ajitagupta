@@ -4,7 +4,7 @@
 
 :arrow_forward: [Starting out](https://github.com/ajitagupta/startingout)
 
-:arrow_forward: [Becoming a Software Professional](https://github.com/ajitagupta/becomingasoftwareprofessional)
+:arrow_forward: [Becoming an Associate Software Engineer](https://github.com/ajitagupta/becominganassociate)
 
 If you are current student in Switzerland looking for internships or early-stage exposure consider applying to the following [companies](https://github.com/ajitagupta/swisssoftwareconsulting).
 
